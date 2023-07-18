@@ -8,7 +8,7 @@ This folder contains all functionality to generate trajectory labels from a simu
 3. Clone this repo
 4. In the `catkin_ws/src` folder: `vcs-import < agile_autonomy/dependencies.yaml`
 5. `catkin build`
-
+odsijfapojisopd
 
 ## Launch Commands
 
